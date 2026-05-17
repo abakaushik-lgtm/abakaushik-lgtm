@@ -89,21 +89,19 @@
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge"/>
 </p>
-
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abakaushik-lgtm&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abakaushik-lgtm&theme=tokyonight" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abakaushik-lgtm&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abakaushik-lgtm&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=abakaushik-lgtm&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=abakaushik-lgtm&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 # 📈 Contribution Graph
