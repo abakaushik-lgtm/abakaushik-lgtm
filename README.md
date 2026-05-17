@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=abakaushik-lgtm&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
----
 <img align="right" alt="Data Science" width="350" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
 # 💫 About Me
@@ -45,7 +44,6 @@
 </a>
 </p>
 
----
 
 # ⚡ Data Science Tech Stack
 
@@ -54,8 +52,6 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
-
----
 
 ## 📊 Data Science & AI
 
@@ -68,7 +64,6 @@
 <img src="https://img.shields.io/badge/Statistics-673AB7?style=for-the-badge" />
 </p>
 
----
 
 ## 🛠️ Tools & Platforms
 
@@ -76,7 +71,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
 
 # 📚 Currently Learning
 
@@ -125,26 +119,22 @@
 - 📉 Predictive Modeling
 - ⚙️ Real-World Data Science Projects
 
----
 
 # ✨ Data Science Mindset
 
 > “Without data, you're just another person with an opinion.”
 
----
 
 # 🌟 Fun Fact
 
 ⚡ I enjoy finding hidden insights in data and transforming information into meaningful solutions.
 
----
 
 # ✨ Random Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
----
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer"/>
 </p>
