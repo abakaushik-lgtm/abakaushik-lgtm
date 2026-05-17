@@ -17,7 +17,6 @@
 <img align="right" alt="Data Science" width="350" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
 # 💫 About Me
-
 💡 Passionate fresher exploring the world of **Data Science, Artificial Intelligence, and Analytics**.
 
 📊 Interested in uncovering patterns, analyzing data, and building intelligent solutions using modern technologies.
