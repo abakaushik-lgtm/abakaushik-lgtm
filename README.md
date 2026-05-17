@@ -1,57 +1,61 @@
 <h1 align="center">Hi 👋, I'm Anubhuti</h1>
 
 <h3 align="center">
-📊 Aspiring Data Scientist • AI Explorer • Analytics Enthusiast • Future ML Engineer 🚀
+📊 Data Science Enthusiast • AI Explorer • Analytics Learner • Future ML Engineer 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=6AD3F3&center=true&vCenter=true&width=800&lines=Turning+Data+Into+Intelligence+📊;Exploring+AI+%26+Machine+Learning+🤖;Passionate+About+Analytics+%26+Innovation+🚀;Learning+Today+Building+Tomorrow+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Turning+Data+Into+Insights+📊;Exploring+AI+%26+Machine+Learning+🤖;Learning+Data+Science+Step+by+Step+🚀;Analytics+Driven+Problem+Solver+✨" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=abakaushik-lgtm&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Data Science" width="380" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
 # 💫 About Me
 
-💡 Passionate about transforming raw data into meaningful insights through **Data Science, Artificial Intelligence, and Analytics**.
+💡 Passionate fresher exploring the world of **Data Science, Artificial Intelligence, and Analytics**.
 
-🚀 A curious fresher constantly exploring modern technologies, intelligent systems, and real-world problem-solving approaches.
+📊 Interested in uncovering patterns, analyzing data, and building intelligent solutions using modern technologies.
+
+🚀 Constantly learning and improving problem-solving, analytical thinking, and machine learning concepts.
 
 ---
 
-### 🌱 Current Journey
+# 🌱 Current Learning Journey
 
-- 📊 Learning **Data Science & Machine Learning**
-- 🧠 Exploring **Artificial Intelligence & Predictive Analytics**
-- 📈 Building strong foundations in **Statistics & Data Visualization**
-- 💻 Practicing with **Python, SQL & Analytics Tools**
-- ⚡ Improving problem-solving & analytical thinking skills
-- 🎯 Goal: Becoming a highly skilled **Data Scientist & AI Engineer**
+- 📊 Data Analysis & Visualization
+- 🤖 Machine Learning Fundamentals
+- 🧠 Artificial Intelligence Concepts
+- 📈 Statistics & Predictive Analytics
+- 🐍 Python for Data Science
+- 🗄️ SQL & Database Management
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/abakaushik-lgtm" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+
+<a href="https://linkedin.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+
+<a href="mailto:your-email@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 </p>
 
 ---
 
-# ⚡ Tech Ecosystem
+# ⚡ Data Science Tech Stack
 
 ## 👩‍💻 Languages
 
@@ -61,14 +65,15 @@
 
 ---
 
-## 📊 Data Science & AI
+## 📊 Data Science & AI Skills
 
 <p align="left">
-<img src="https://img.shields.io/badge/Data%20Analysis-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-9C27B0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data%20Visualization-E91E63?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-6A1B9A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Statistics-673AB7?style=for-the-badge" />
 </p>
 
 ---
@@ -84,12 +89,13 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abakaushik-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abakaushik-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 <p align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=abakaushik-lgtm&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 ---
@@ -97,7 +103,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abakaushik-lgtm&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
@@ -105,33 +111,33 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abakaushik-lgtm&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
 # 🚀 Current Focus
 
-✨ Building knowledge in:
+✨ Exploring:
 
 - 📊 Data Analytics
 - 🤖 Machine Learning
-- 🧠 AI Concepts
+- 🧠 AI Fundamentals
+- 📈 Data Visualization
 - 📉 Predictive Modeling
-- 📈 Visualization & Insights
-- ⚙️ Real-World Problem Solving
+- ⚙️ Real-World Data Science Projects
 
 ---
 
-# ✨ Developer Mindset
+# ✨ Data Science Mindset
 
-> “Data is not just numbers — it’s the foundation of intelligent decisions.”
+> “Without data, you're just another person with an opinion.”
 
 ---
 
 # 🌟 Fun Fact
 
-⚡ I enjoy discovering patterns, solving problems, and continuously learning new technologies every day.
+⚡ I enjoy finding hidden insights in data and transforming information into meaningful solutions.
 
 ---
 
@@ -143,14 +149,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6AD3F3,100:8A2BE2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer"/>
 </p>
