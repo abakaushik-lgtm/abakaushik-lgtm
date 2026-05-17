@@ -86,7 +86,8 @@
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge"/>
 </p>
----
+
+
 
 # 📊 GitHub Analytics
 
@@ -99,7 +100,6 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=abakaushik-lgtm&theme=tokyonight&hide_border=true" />
 </p>
----
 
 # 📈 Contribution Graph
 
@@ -107,15 +107,12 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abakaushik-lgtm&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
 # 🏆 GitHub Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=abakaushik-lgtm&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
----
 
 # 🚀 Current Focus
 
