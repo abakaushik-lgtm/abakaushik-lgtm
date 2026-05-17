@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=abakaushik-lgtm&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
----
 
 <img align="right" alt="Data Science" width="350" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
