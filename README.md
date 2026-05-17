@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Data Science" width="380" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+<img align="right" alt="Data Science" width="350" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
 # 💫 About Me
 
@@ -22,18 +22,13 @@
 
 📊 Interested in uncovering patterns, analyzing data, and building intelligent solutions using modern technologies.
 
-🚀 Constantly learning and improving problem-solving, analytical thinking, and machine learning concepts.
+🚀 Constantly learning and improving analytical thinking, problem-solving, and machine learning concepts.
 
----
-
-# 🌱 Current Learning Journey
-
-- 📊 Data Analysis & Visualization
-- 🤖 Machine Learning Fundamentals
-- 🧠 Artificial Intelligence Concepts
-- 📈 Statistics & Predictive Analytics
-- 🐍 Python for Data Science
-- 🗄️ SQL & Database Management
+- 🌱 Currently learning **Machine Learning & Data Analytics**
+- 🧠 Exploring **AI & Predictive Analytics**
+- 📈 Building projects using **Python & SQL**
+- ⚡ Passionate about discovering insights from data
+- 🎯 Goal: Becoming a skilled **Data Scientist & AI Engineer**
 
 ---
 
@@ -44,11 +39,11 @@
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
 
-<a href="https://linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/anubhuti-kaushik-1561b22ab/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:Abakaushik@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 </p>
@@ -65,7 +60,7 @@
 
 ---
 
-## 📊 Data Science & AI Skills
+## 📊 Data Science & AI
 
 <p align="left">
 <img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge" />
@@ -86,16 +81,27 @@
 
 ---
 
+# 📚 Currently Learning
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python%20for%20Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge"/>
+</p>
+
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abakaushik-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abakaushik-lgtm&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abakaushik-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abakaushik-lgtm&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=abakaushik-lgtm&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=abakaushik-lgtm&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -103,7 +109,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abakaushik-lgtm&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abakaushik-lgtm&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -118,11 +124,11 @@
 
 # 🚀 Current Focus
 
-✨ Exploring:
+✨ Exploring and building knowledge in:
 
 - 📊 Data Analytics
 - 🤖 Machine Learning
-- 🧠 AI Fundamentals
+- 🧠 Artificial Intelligence
 - 📈 Data Visualization
 - 📉 Predictive Modeling
 - ⚙️ Real-World Data Science Projects
@@ -145,6 +151,14 @@
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abakaushik-lgtm/abakaushik-lgtm/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
