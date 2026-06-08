@@ -101,11 +101,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abakaushik-lgtm&theme=tokyo-night&hide_border=true"/>
 </p>
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abakaushik-lgtm&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
 
 
 # 🚀 Current Focus
