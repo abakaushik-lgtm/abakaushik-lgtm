@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anubhuti Kaushik</h1> 
+<h1 align="center">Hi 👋, I'm Anubhuti Kaushik</h1>   
 
 <h3 align="center">
 📊 Data Science Enthusiast • AI Explorer • Analytics Learner • Future ML Engineer 🚀
